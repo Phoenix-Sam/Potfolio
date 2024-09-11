@@ -94,6 +94,8 @@ body {
 
 .about {
   padding: 80px 0;
+  background-color: #000; /* Add black background */
+  color: #fff; /* Ensure text is white or light-colored for readability */
 }
 
 .about h2 {
